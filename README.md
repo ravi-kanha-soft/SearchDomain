@@ -2,6 +2,13 @@
 
 A SwiftUI-based iOS application that allows users to search for domain names and simulate domain purchases. The app demonstrates modern iOS development practices, including MVVM architecture, async/await for network calls, and a clean, responsive UI.
 
+## Here its running app video
+
+
+https://github.com/user-attachments/assets/e7272e83-69e9-4b9f-8359-1090567b88b0
+
+
+
 ## Features
 
 - **Real-time Domain Search**
