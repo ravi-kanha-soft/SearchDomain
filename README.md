@@ -27,10 +27,6 @@ https://github.com/user-attachments/assets/e7272e83-69e9-4b9f-8359-1090567b88b0
   - Haptic feedback for important actions
   - Animated transitions and loading states
 
-## Screenshots
-
-[Add your app screenshots here]
-
 ## Requirements
 
 - iOS 15.0+
